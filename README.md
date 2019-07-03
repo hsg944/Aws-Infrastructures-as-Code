@@ -3,6 +3,8 @@ This Repository will contain a collection of custom built architectures using Te
 
 Git CheatSheet
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+
 https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+
 https://www.keycdn.com/blog/git-cheat-sheet
 
