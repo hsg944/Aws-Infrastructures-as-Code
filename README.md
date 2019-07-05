@@ -9,3 +9,7 @@ https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 
 https://www.keycdn.com/blog/git-cheat-sheet
 
+#Deployment Strategies
+
+https://thenewstack.io/deployment-strategies/
+
