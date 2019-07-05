@@ -13,3 +13,5 @@ https://www.keycdn.com/blog/git-cheat-sheet
 
 https://thenewstack.io/deployment-strategies/
 
+https://thenewstack.io/win-win-deployment-strategies-for-modern-apps/
+
